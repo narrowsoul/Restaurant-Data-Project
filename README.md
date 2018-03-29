@@ -1,1 +1,2 @@
-#Restaurante-Data-Project
+#Restaurant-Data-Project
+Learning to github
